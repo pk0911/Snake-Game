@@ -17,3 +17,5 @@ The three key modules used in developing this game are:
 2. Random module: The pseudo-random variables are produced using the built-in random module. It can be used to do random actions like generating a random          number, choosing random items from a list, randomly shuffling items, etc. 
 
 3. Time module: The Python time module offers a variety of coded representations for time, including objects, integers, and strings. Along with functions other    than time representation, it also allows users to measure the effectiveness of their code and wait while it executes. 
+
+Hi
